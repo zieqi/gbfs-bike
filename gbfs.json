@@ -6,17 +6,18 @@
         "feeds": [
           {
             "name": "system_information",
-            "url": "https://your-server.com/gbfs/system_information.json"
+            "url": "https://zieqi.github.io/gbfs-socar/system_information.json"
           },
           {
             "name": "station_information",
-            "url": "https://your-server.com/gbfs/station_information.json"
+            "url": "https://zieqi.github.io/gbfs-socar/station_information.json"
           },
           {
             "name": "station_status",
-            "url": "https://your-server.com/gbfs/station_status.json"
+            "url": "https://zieqi.github.io/gbfs-socar/station_status.json"
           }
         ]
       }
     }
+
   }
