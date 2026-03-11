@@ -1,0 +1,22 @@
+{
+  "last_updated": 1709500000,
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "station_id": "socar_kl_sentral",
+        "name": "SoCar KL Sentral",
+        "lat": 3.1357,
+        "lon": 101.6880,
+        "capacity": 10
+      },
+      {
+        "station_id": "socar_montkiara",
+        "name": "SoCar Mont Kiara",
+        "lat": 3.1672,
+        "lon": 101.6527,
+        "capacity": 8
+      }
+    ]
+  }
+}

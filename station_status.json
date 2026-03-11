@@ -1,0 +1,24 @@
+{
+  "last_updated": 1709500000,
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "station_id": "socar_kl_sentral",
+        "num_vehicles_available": 4,
+        "num_docks_available": 6,
+        "is_installed": 1,
+        "is_renting": 1,
+        "is_returning": 1
+      },
+      {
+        "station_id": "socar_montkiara",
+        "num_vehicles_available": 2,
+        "num_docks_available": 6,
+        "is_installed": 1,
+        "is_renting": 1,
+        "is_returning": 1
+      }
+    ]
+  }
+}
