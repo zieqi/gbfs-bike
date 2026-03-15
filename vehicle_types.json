@@ -1,11 +1,19 @@
 {
   "last_updated": 1709500000,
   "ttl": 60,
+  "version": "2.3",
   "data": {
-    "system_id": "socar_my",
-    "language": "en",
-    "name": "SoCar Malaysia",
-    "operator": "SoCar",
-    "timezone": "Asia/Kuala_Lumpur"
+    "vehicle_types": [
+      {
+        "vehicle_type_id": "socar_sedan",
+        "form_factor": "car",
+        "propulsion_type": "combustion"
+      },
+      {
+        "vehicle_type_id": "socar_ev",
+        "form_factor": "car",
+        "propulsion_type": "electric"
+      }
+    ]
   }
 }
