@@ -1,0 +1,11 @@
+{
+  "last_updated": 1709500000,
+  "ttl": 60,
+  "data": {
+    "system_id": "socar_my",
+    "language": "en",
+    "name": "SoCar Malaysia",
+    "operator": "SoCar",
+    "timezone": "Asia/Kuala_Lumpur"
+  }
+}
