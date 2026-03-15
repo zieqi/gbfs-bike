@@ -21,7 +21,16 @@
         ],
 
         "num_docks_available": 5,
-
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [ "socar_ev" ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [ "socar_sedan" ],
+            "count": 3
+          }
+        ],
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
@@ -46,7 +55,16 @@
         ],
 
         "num_docks_available": 5,
-
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [ "socar_ev" ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [ "socar_sedan" ],
+            "count": 3
+          }
+        ],
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
