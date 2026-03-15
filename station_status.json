@@ -1,24 +1,56 @@
 {
   "last_updated": 1709500000,
   "ttl": 60,
+  "version": "2.3",
   "data": {
     "stations": [
       {
         "station_id": "socar_kl_sentral",
-        "num_bikes_available": 4,
-        "num_docks_available": 6,
-        "is_installed": 1,
-        "is_renting": 1,
-        "is_returning": 1,
+
+        "num_bikes_available": 5,
+
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "socar_sedan",
+            "count": 3
+          },
+          {
+            "vehicle_type_id": "socar_ev",
+            "count": 2
+          }
+        ],
+
+        "num_docks_available": 5,
+
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+
         "last_reported": 1709500000
       },
+
       {
         "station_id": "socar_montkiara",
-        "num_bikes_available": 2,
-        "num_docks_available": 6,
-        "is_installed": 1,
-        "is_renting": 1,
-        "is_returning": 1,
+
+        "num_bikes_available": 3,
+
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "socar_sedan",
+            "count": 2
+          },
+          {
+            "vehicle_type_id": "socar_ev",
+            "count": 1
+          }
+        ],
+
+        "num_docks_available": 5,
+
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+
         "last_reported": 1709500000
       }
     ]
