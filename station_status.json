@@ -13,9 +13,17 @@
         "is_returning": true,
         "last_reported": 1709500000
       },
-
       {
         "station_id": "socar_montkiara",
+        "num_bikes_available": 3,
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1709500000
+      },
+      {
+        "station_id": "socar_montkiara2",
         "num_bikes_available": 3,
         "num_docks_available": 5,
         "is_installed": true,
