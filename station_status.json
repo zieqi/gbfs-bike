@@ -29,7 +29,8 @@
         "vehicle_docks_available": [{
           "vehicle_type_ids": ["socar_bike"],
           "count": 5
-        },
+          }
+        ]
         "vehicle_types_available": [{
           "vehicle_type_id": "socar_bike",
           "count": 3  
@@ -47,7 +48,8 @@
         "vehicle_docks_available": [{
           "vehicle_type_ids": ["socar_bike"],
           "count": 5
-        },
+          }
+        ]
         "vehicle_types_available": [{
           "vehicle_type_id": "socar_bike",
           "count": 3  
