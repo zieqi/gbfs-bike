@@ -16,10 +16,6 @@
         {
           "name": "station_status",
           "url": "https://zieqi.github.io/gbfs-socar/station_status.json"
-        },
-        {
-          "name": "vehicle_types",
-          "url": "https://zieqi.github.io/gbfs-socar/vehicle_types.json"
         }
       ]
     }
