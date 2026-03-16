@@ -11,7 +11,12 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "last_reported": 1709500000
+        "last_reported": 1709500000,
+        "vehicle_types_available": [{
+          "vehicle_type_id": "socar_bike",
+          "count": 5
+          }
+        ]  
       },
       {
         "station_id": "socar_montkiara",
@@ -20,7 +25,12 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "last_reported": 1709500000
+        "last_reported": 1709500000,
+        "vehicle_types_available": [{
+          "vehicle_type_id": "socar_bike",
+          "count": 3  
+          }
+        ]   
       },
       {
         "station_id": "socar_montkiara2",
@@ -29,7 +39,12 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "last_reported": 1709500000
+        "last_reported": 1709500000,
+        "vehicle_types_available": [{
+          "vehicle_type_id": "socar_bike",
+          "count": 3  
+          }
+        ]  
       }
     ]
   }
