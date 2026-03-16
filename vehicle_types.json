@@ -19,7 +19,7 @@
       {
         "vehicle_type_id": "socar_bike",
         "form_factor": "bicycle",
-        "propulsion_type": "human",
+        "propulsion_type": "electric",
         "max_range_meters": 450000
       }
     ]
