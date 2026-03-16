@@ -26,6 +26,10 @@
         "is_renting": true,
         "is_returning": true,
         "last_reported": 1709500000,
+        "vehicle_docks_available": [{
+          "vehicle_type_ids": ["socar_bike"],
+          "count": 5
+        },
         "vehicle_types_available": [{
           "vehicle_type_id": "socar_bike",
           "count": 3  
@@ -40,6 +44,10 @@
         "is_renting": true,
         "is_returning": true,
         "last_reported": 1709500000,
+        "vehicle_docks_available": [{
+          "vehicle_type_ids": ["socar_bike"],
+          "count": 5
+        },
         "vehicle_types_available": [{
           "vehicle_type_id": "socar_bike",
           "count": 3  
